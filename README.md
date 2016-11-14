@@ -24,6 +24,6 @@
 ```javascript
   var Author = {
     Name  : "Guhang",
-    Site : "http://rexhang.com.blog/"
+    Blog : "http://rexhang.com.blog/"
   }
 ```
