@@ -13,5 +13,14 @@
     $ git push origin master
 
     $ git pull origin master
-    
+
 ![mahua](http://test.rexhang.com/img/rexhang_logo.png)
+
+##关于作者
+
+```javascript
+  var Author = {
+    Name  : "Guhang",
+    Site : "http://rexhang.com.blog/"
+  }
+```
