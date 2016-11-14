@@ -13,4 +13,5 @@
     $ git push origin master
 
     $ git pull origin master
-
+    
+![mahua](http://test.rexhang.com/img/rexhang_logo.png)
