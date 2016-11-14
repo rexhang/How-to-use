@@ -1,10 +1,11 @@
-# How-to-use git create project?
+# How-to-use git create project ?
 
+## ① how to `download` the project ?
 ## 1、create repository from github.com
 
 ## 2、copy SSH url
 
-    $ git clone git@github.com:user/project.git
+    $ git clone `git@github.com:user/project.git`
 
     $ git add .
 
