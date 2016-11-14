@@ -9,6 +9,8 @@
 
     $ git add .
 
+    $ git rm xxx.html
+
     $ git commit -m "注释log"
 
     $ git push origin master
