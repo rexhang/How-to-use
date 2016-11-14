@@ -1,6 +1,6 @@
 # How-to-use git create project ?
 
-## ① how to `download` the project ?
+## how to `download` the project ?
 ## 1、create repository from github.com
 
 ## 2、copy SSH url
